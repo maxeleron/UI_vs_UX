@@ -1,0 +1,54 @@
+*{
+    text-decoration: none;
+    margin:0;
+    padding:0;
+}
+body{
+  /*background:#5f5d7f;
+  background:#5f5d7f;*/
+  background:#3f5d7f;
+}
+/*Blocks markup BEGIN*/
+.glBlock{
+	background:#ffffff;
+	display:block;
+	width:1000px;
+	margin-top:10px;
+	margin-bottom: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	opacity:0.8;
+}
+
+header{
+	height: 60px;
+}
+
+#main{
+	height: 1700px;
+	padding-top: 30px;
+}
+
+footer{
+	height: 50px;
+}
+/*Blocks markup END*/
+/*Fonts & Text BEGIN*/
+*{
+	font-family: Arial;
+	font-size: 20px;
+}
+
+#title{
+	font-size: 80px;
+	display: block;
+	text-align: center;
+	margin: 30px auto;
+	position: relative;
+}
+
+p{
+	margin: 15px 45px;
+	text-align: justify;
+}
+/*Fonts & Text END*/
