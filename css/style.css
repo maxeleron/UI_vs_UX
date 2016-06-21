@@ -51,4 +51,10 @@ p{
 	margin: 15px 45px;
 	text-align: justify;
 }
+
+#copyright{
+	text-align: center;
+	color: white;
+	font-size: 12px;
+}
 /*Fonts & Text END*/
