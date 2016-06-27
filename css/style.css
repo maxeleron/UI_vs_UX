@@ -39,6 +39,11 @@ p{
 	text-align: justify;
 }
 
+li{
+	margin: 5px 65px;
+	text-align: justify;
+}
+
 footer{
 	height: 50px;
 }
